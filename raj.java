@@ -18,5 +18,3 @@ public class raj
 }
 
 
-hai
-hw r u
